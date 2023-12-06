@@ -27,7 +27,7 @@
     "prettier.tabWidth": 2,
     "prettier.semi": false,
   
-    // terminal
+    // terminal settings
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.profiles.windows": {
       "Git Bash": {
