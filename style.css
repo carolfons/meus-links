@@ -139,3 +139,15 @@ ul li a:hover {
 #social-icons a:hover {
   background: var(--highlight-color);
 }
+
+/*media queries*/
+
+@media (min-width: 700px){
+  :root{
+    --bg-url:url(./assets/1-desktop.png);
+    background: no-repeat center;
+  }
+  .light{
+    --bg-url:url(./assets/2-desktop.png);
+  }
+}
