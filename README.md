@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://carolfons.github.io/meus-links)
+- [Acesse o projeto finalizado, online](https://carolfons.github.io/meus-links/)
 
 ## :memo: Licença
 
